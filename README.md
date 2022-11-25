@@ -10,3 +10,4 @@ BootStrap
 jQuery
 Moment.js
 
+Demo: https://mriya20.github.io/Work-Day-Scheduler/
