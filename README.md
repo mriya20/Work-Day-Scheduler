@@ -11,3 +11,4 @@ jQuery
 Moment.js
 
 Demo: https://mriya20.github.io/Work-Day-Scheduler/
+![Screen Shot 2022-11-25 at 1 11 33 PM](https://user-images.githubusercontent.com/115508223/204037819-ddcdea45-acf6-413a-b9c8-396dbc6d322a.png)
